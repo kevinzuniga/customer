@@ -2,6 +2,9 @@
   "name": "new-customer-2",
   "version": "0.1.0",
   "private": true,
+  "engines": {
+    "node": "10.15.3"
+  },
   "dependencies": {
     "axios": "^0.18.0",
     "materialize-css": "^1.0.0-rc.2",
