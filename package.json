@@ -1,10 +1,10 @@
 {
   "name": "new-customer-2",
   "version": "0.1.0",
-  "private": true,
+  "private": false,
   "homepage": "https://kevinzuniga.github.io/customer",
   "engines": {
-    "node": "10.15.3"
+    "node": "11.11.0"
   },
   "dependencies": {
     "axios": "^0.18.0",
