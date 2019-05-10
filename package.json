@@ -2,7 +2,7 @@
   "name": "new-customer-2",
   "version": "0.1.0",
   "private": true,
-  "homepage" : "http://kevinzuniga.github.io/customer",
+  "homepage" : "https://kevinzuniga.github.io/customer",
   "engines": {
     "node": "10.15.3"
   },
